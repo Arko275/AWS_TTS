@@ -1,7 +1,5 @@
 # AWS_TTS
-Certainly! Here's a detailed README file for your GitHub repository:
 
----
 
 # Private Text-to-Speech Application
 
